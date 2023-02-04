@@ -247,12 +247,8 @@ img:hover {
 }
 
 .eventos__item {
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: #373737;
   border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
   width: 307px;
   padding-bottom: 1rem;
   height: 318px;
@@ -327,12 +323,8 @@ img:hover {
 }
 
 .agenda__item {
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: #373737;
   border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .agenda__item img {
