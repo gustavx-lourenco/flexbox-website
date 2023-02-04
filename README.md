@@ -1,6 +1,6 @@
 ![thumbnail-Praticando CSS_ Grid e Flexbox](https://lh3.googleusercontent.com/u/2/drive-viewer/AAOQEOSXniet3RZYmJOkIY8sJhTUvASlGey-sB1DrK2-3Cv4YZ174SlKkMXD8ZCeF7t8NRXYhbE8wD2198O9N8YCJaclgkPPxg=w2448-h1728)
 #
-<img src ="https://github.com/gustavx-lourenco/flexbox-website/blob/master/assets/img/logo-branco-menor.png" width="100px"> <p>GameNews é um site com tematica voltada para games, criado para colocar em prática meus estudos voltados a responsividade.</p>
+<img src ="https://github.com/gustavx-lourenco/flexbox-website/blob/master/assets/img/logo-branco-menor.png" width="100px"> <p>GameNews é um site com tematica voltada para games, criado para colocar em prática meus estudos em responsividade.</p>
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `HTML`: O HTML tem um papel fundamental para criar as estruturas da página que formam o GameNews. 
